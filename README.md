@@ -14,4 +14,5 @@ This course will teach you to:
 When you complete this course, you will have a systematic workflow at your disposal to boost your productivity and accelerate your journey toward breakthrough results.
 
 
-https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai
+Course: https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai
+Certificate: https://learn.deeplearning.ai/accomplishments/3eb1601b-f2ed-4bca-8faf-57ee7ef6557c
