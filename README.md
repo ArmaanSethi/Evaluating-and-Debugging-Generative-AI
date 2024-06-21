@@ -15,4 +15,5 @@ When you complete this course, you will have a systematic workflow at your dispo
 
 
 Course: https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai
+
 Certificate: https://learn.deeplearning.ai/accomplishments/3eb1601b-f2ed-4bca-8faf-57ee7ef6557c
