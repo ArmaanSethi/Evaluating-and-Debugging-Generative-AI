@@ -12,3 +12,6 @@ This course will teach you to:
 - Trace prompts and responses to LLMs over time in complex interactions
 
 When you complete this course, you will have a systematic workflow at your disposal to boost your productivity and accelerate your journey toward breakthrough results.
+
+
+https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai
